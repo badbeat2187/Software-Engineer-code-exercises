@@ -1,0 +1,16 @@
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.Tests.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.Tests.pdb
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.pdb
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.pdb
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.Tests.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.Tests.pdb
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\bin\Debug\TireChangeRefactor.pdb
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor.Tests\obj\Debug\TireChangeRefactor.Tests.pdb

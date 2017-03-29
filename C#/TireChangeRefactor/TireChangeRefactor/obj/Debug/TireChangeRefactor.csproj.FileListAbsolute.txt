@@ -1,0 +1,10 @@
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.pdb
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.csprojResolveAssemblyReference.cache
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\s\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.pdb
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.pdb
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.csprojResolveAssemblyReference.cache
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.dll
+C:\Users\nikhil\Downloads\Software Engineer code-exercises\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.pdb
